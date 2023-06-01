@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "steel-spirit-387200",
+  "private_key_id": "f25b45b42bf6acc6f0d318db79aa60bf4292e7dd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqo5Nh4pHFYKJT\nyn9CHlYgnVHdDLxYHFDu7Eb1PVEvieJcKHUVoIO9tKBncYOkhTy2s8mi+VPFLxtk\nlgU7HSiJGZLFPSXspWtAAcxSYni6bpzlMVUMXuy/XGET5j0JjH0ePK4nQSmzY+/W\nvt92uZ/jTAlwSQ/vmXWE7xhVIuF0Ntr0ngOswAS2nH2COdXrg4L75ITTkZNOgBKG\nMWEVHH1F45znsUULbW7ZvIGm14st1uWEygvbxmE9VJ0eqyfZvistpYNYK6EK7Pjf\nQn4Y13ipuDy6l8nWTaVUpSzxJUN3XC+i5z9gW1yHcfpKxkeZtytGybDQ0BAvcVhi\nhZGZkWmVAgMBAAECggEAHy2/zIMoVPsE9g/6RDPEU3XDY0NEN8pGvH02MvG2/5tv\nXZzz1dWMNNHH/Fa4scs5jn2X0nxBovYqSG0D/CrmAPUIBRuY7h5ElD+v3H7LJe93\nogYrTtUaZ5XC1C69yNyfcPKv9JK6wqE4TdH3BVvB+/dlAxwKeiJdX4KLfOTgcooV\n/14627ZKGSHj3o310p//eNN6qCwwMUhvcXjKgU56DEiPAjrzBmhtT3VpARQTfTtz\nH8zWoBaSg9sdUPY8WvHkKZNGDbT2x+fSMsiE5vGF+llrwHot8/AraTXicTkVvu4G\nrSPBR+eE49UW8G4V6HiL78Ug9JPuNbIyV2HA0hAAMQKBgQDVN+zBE227Z3D+Vt9/\nktcc1wKUaklapisVTmMXb5L2FawIAyWgoodzN9U1n/hpdzQsyTNRMISDoXIqLpQQ\nG0YK7z3mOuGJi71Ql1c2q7xZMEvxIR7gqze6CJEc+YC8ZKymUyRNaAZ8LfKj48+b\n6t3GdYbd02WSXHMaiTRELITQkQKBgQDM4IideVozTUyvwhLbLcFEe3n7aDuH5DyU\nuQcCnBf/DQ7l1IoTfpqOOdsZ+EH/5wFgjtLJrZlt1XxU7odKQdKywAXZEgBU3bar\nfaS6AmnouMkBbJyDNmyYa93wnR73nmtTmw6yE9mHIr4dTj6Np+xwQ5teTBtOL2yd\n9tFRG2NKxQKBgQDLhfdzETWURhgAXzI1lxfIiqAGxTHB2o2TZ+CEdVclmOg+OarI\nG3wJigj1h/5ZxZRDD8bxP8utzgSoqQ9iFHaWZ2mBg0DXx1BtRhjUsbc2tzg2MfRE\nZorqA9Vof+zXZ425sfEcBijyjfVnZUQ9w0HwdyzGP0xcGe0xLjh6vrgEUQKBgFTM\nov87GWCeoB0nYRKjT5l+2jB7JhjLGWAdbY9g+HWy+/WZEUWcY3B29f87yGWZQfKr\nawfa+OSDNqEY0ZqkwAcIf+MnFkgKNO+qY6IyGZAf2+LhB68vuaclDonnHsgzJA1I\n4r5GhQTwFmye1DlhxfV5pjdTnQGxk22WmXDOuzxZAoGACsCU9y96MV6zYavhmRG6\n0DvCXyhABwzdwtRahQdDq2goLTLTOwyTDFhzdJcOvmdWlyUQ7frXUQtng2154SrL\nL5eO1ZgpUrftkfutEiCh3v0sU+8teyvA1+LMvCMBzKezCVmfIiwpmmHYsq7C7/En\nfLskJg2aOoYPj2/hCroTfeI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "voicetest@steel-spirit-387200.iam.gserviceaccount.com",
+  "client_id": "100326922245599756045",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/voicetest%40steel-spirit-387200.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
